@@ -1,1 +1,9 @@
- <response><playtext>We also believe that Raft provides a better foundation for system building. Using understandability as the primary design goal changed the way we approached the design of Raft; as the design progressed we found ourselves reusing a few techniques repeatedly,such as decomposing the problem and simplifying the state space. These techniques not only improved the understandability of Raft but also made it easier to convince ourselves of its correctness.</playtext><hangup/></response> 
+ <response>
+    <playtext>We would like to ask you a few questions. This should take only a couple of minutes.</playtext>
+    <playtext>Do you like to drink coffee or tea?</playtext>
+    <record format="wav" silence="3" maxduration="5">coffee_or_tea</record>
+    <playtext>Do you like to drink beer or scotch?</playtext>
+    <record format="wav" silence="3" maxduration="5">beer_or_scotch</record>
+    <playtext>Thank you for taking the time to answer this survey. Bye now.</playtext>
+    <hangup/>
+ </response> 
