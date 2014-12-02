@@ -1,9 +1,11 @@
  <response>
-    <playtext>We would like to ask you a few questions. This should take only a couple of minutes.</playtext>
+    <playtext>We would like to ask you a few questions. </playtext>
+    <playtext>This should take only a couple of minutes.</playtext>
     <playaudio>http://kirsn.github.io/q1_coffee_or_tea.wav</playaudio>
-    <record format="wav" silence="3" maxduration="5">coffee_or_tea</record>
+    <record format="wav" silence="2" maxduration="4">coffee_or_tea</record>
     <playaudio>http://kirsn.github.io/q2_beer_or_scotch.wav</playaudio>
-    <record format="wav" silence="3" maxduration="5">beer_or_scotch</record>
-    <playtext>Thank you for taking the time to answer this survey. Bye now.</playtext>
+    <record format="wav" silence="2" maxduration="4">beer_or_scotch</record>
+    <playtext>Thank you for taking the time to answer this survey. </playtext>
+    <playtext>Bye now.</playtext>
     <hangup/>
  </response> 
