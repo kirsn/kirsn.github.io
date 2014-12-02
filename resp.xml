@@ -1,8 +1,8 @@
  <response>
     <playtext>We would like to ask you a few questions. This should take only a couple of minutes.</playtext>
-    <playtext>Do you like to drink coffee or tea?</playtext>
+    <playaudio>http://kirsn.github.io/q1_coffee_or_tea.wav</playaudio>
     <record format="wav" silence="3" maxduration="5">coffee_or_tea</record>
-    <playtext>Do you like to drink beer or scotch?</playtext>
+    <playaudio>http://kirsn.github.io/q2_beer_or_scotch.wav</playaudio>
     <record format="wav" silence="3" maxduration="5">beer_or_scotch</record>
     <playtext>Thank you for taking the time to answer this survey. Bye now.</playtext>
     <hangup/>
