@@ -1,37 +1,37 @@
  <response>
     <playaudio>http://kirsn.github.io/0-greeting-start.wav</playaudio>
     <playaudio>http://kirsn.github.io/1.wav</playaudio>
-    <record format="wav" silence="2" maxduration="4">q1</record>
+    <record format="wav" silence="1" maxduration="2">q1</record>
     <playaudio>http://kirsn.github.io/2.wav</playaudio>
-    <record format="wav" silence="2" maxduration="4">q2</record>
+    <record format="wav" silence="1" maxduration="2">q2</record>
     <playaudio>http://kirsn.github.io/3.wav</playaudio>
-    <record format="wav" silence="2" maxduration="4">q3</record>
+    <record format="wav" silence="1" maxduration="2">q3</record>
     <playaudio>http://kirsn.github.io/4.wav</playaudio>
-    <record format="wav" silence="2" maxduration="4">q4</record>
+    <record format="wav" silence="1" maxduration="2">q4</record>
     <playaudio>http://kirsn.github.io/5.wav</playaudio>
-    <record format="wav" silence="2" maxduration="4">q5</record>
+    <record format="wav" silence="1" maxduration="2">q5</record>
     <playaudio>http://kirsn.github.io/6.wav</playaudio>
-    <record format="wav" silence="2" maxduration="4">q6</record>
+    <record format="wav" silence="1" maxduration="2">q6</record>
     <playaudio>http://kirsn.github.io/7.wav</playaudio>
-    <record format="wav" silence="2" maxduration="4">q7</record>
+    <record format="wav" silence="1" maxduration="3">q7</record>
     <playaudio>http://kirsn.github.io/8.wav</playaudio>
-    <record format="wav" silence="2" maxduration="4">q8</record>
+    <record format="wav" silence="1" maxduration="3">q8</record>
     <playaudio>http://kirsn.github.io/9.wav</playaudio>
-    <record format="wav" silence="2" maxduration="4">q9</record>
+    <record format="wav" silence="1" maxduration="2">q9</record>
     <playaudio>http://kirsn.github.io/10.wav</playaudio>
-    <record format="wav" silence="2" maxduration="4">q10</record>
+    <record format="wav" silence="1" maxduration="2">q10</record>
     <playaudio>http://kirsn.github.io/11.wav</playaudio>
-    <record format="wav" silence="2" maxduration="4">q11</record>
+    <record format="wav" silence="1" maxduration="6">q11</record>
     <playaudio>http://kirsn.github.io/12.wav</playaudio>
-    <record format="wav" silence="2" maxduration="4">q12</record>
+    <record format="wav" silence="1" maxduration="2">q12</record>
     <playaudio>http://kirsn.github.io/13.wav</playaudio>
-    <record format="wav" silence="2" maxduration="4">q13</record>
+    <record format="wav" silence="1" maxduration="2">q13</record>
     <playaudio>http://kirsn.github.io/14.wav</playaudio>
-    <record format="wav" silence="2" maxduration="4">q14</record>
+    <record format="wav" silence="1" maxduration="5">q14</record>
     <playaudio>http://kirsn.github.io/15.wav</playaudio>
-    <record format="wav" silence="2" maxduration="4">q15</record>
+    <record format="wav" silence="1" maxduration="3">q15</record>
     <playaudio>http://kirsn.github.io/16.wav</playaudio>
-    <record format="wav" silence="2" maxduration="4">q16</record>
+    <record format="wav" silence="1" maxduration="2">q16</record>
     <playaudio>http://kirsn.github.io/thankyou-end.wav</playaudio>
     <hangup/>
  </response> 
