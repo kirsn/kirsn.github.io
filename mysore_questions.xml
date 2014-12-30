@@ -21,7 +21,7 @@
     <playaudio>http://kirsn.github.io/10.wav</playaudio>
     <record format="wav" silence="1" maxduration="2">q10</record>
     <playaudio>http://kirsn.github.io/11.wav</playaudio>
-    <record format="wav" silence="1" maxduration="6">q11</record>
+    <record format="wav" silence="1" maxduration="8">q11</record>
     <playaudio>http://kirsn.github.io/12.wav</playaudio>
     <record format="wav" silence="1" maxduration="2">q12</record>
     <playaudio>http://kirsn.github.io/13.wav</playaudio>
