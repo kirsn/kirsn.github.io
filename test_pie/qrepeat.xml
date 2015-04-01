@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>     
-    <response sid="12345">     
-    <collectdtmf l="1" t="#" o="6000">     
-        <playtext>Press hash at any time to repeat the question</playtext>
-        <playtext>Do you like coffee or tea?</playtext>
-        <record format="wav" silence="1" maxduration="5">myfilename</record>        
-    </collectdtmf>     
+<response sid="12345">     
+    <playtext>Please press hash to repeat the question.</playtext>
+    <playtext>Do you like coffee or tea?</playtext>
+    <record format="wav" silence="1" maxduration="5">myfilename</record>        
 </response> 
