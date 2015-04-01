@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>     
-<response sid="12345">     
+<response sid="12345" audio="first_one">     
     <playtext>Please press hash to repeat the question.</playtext>      
 </response> 
